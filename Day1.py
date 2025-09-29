@@ -1,4 +1,4 @@
-print("shalom, ya nachal")
+print("shalom, ya abob")
 name = "thomasos"
 hours_per_day = 2
 total_hours_per_month = hours_per_day * 30
@@ -12,3 +12,4 @@ progress_today = ["download - python, git, vs code"]
 print("progress today:")
 for progress in progress_today:
     print(f"{progress}")
+
