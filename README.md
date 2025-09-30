@@ -1,2 +1,3 @@
 # pythonAIpractice
-trying to get better in ML
+trying to get better in python
+week 1 results:
