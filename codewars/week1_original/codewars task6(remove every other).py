@@ -4,4 +4,5 @@ def remove_every_other(my_list):
         if i % 2 == 0:
             result.append(my_list[i])
 
-    reutrn result
+    reuturn result
+
